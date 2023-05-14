@@ -1,0 +1,20 @@
+.logo-image {
+  width: 60px;
+  height: 40px;
+}
+
+.nav-container {
+  background-color: #dbeafe;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.nxt-slides-heading {
+  font-family: 'Bree Serif';
+  font-weight: 400;
+  font-size: 32px;
+  margin-left: 10px;
+  color: #0f172a;
+}
